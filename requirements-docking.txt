@@ -1,0 +1,7 @@
+# Versions used to test this repository (Python 3.13). Vina 1.2.7 has wheels for Python <= 3.12;
+# on 3.13 it must be built (apt: swig libboost-all-dev).
+rdkit==2026.9.1
+gemmi==0.7.5
+numpy==2.5.4
+meeko==0.7.1
+vina==1.2.7

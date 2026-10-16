@@ -1,0 +1,3 @@
+-r requirements-docking.txt
+-r requirements-analysis.txt
+pytest==9.1.1
